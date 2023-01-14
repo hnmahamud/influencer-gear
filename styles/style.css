@@ -257,6 +257,7 @@
 
     .brand-title {
         margin-top: 35px;
+        font-size: 15px;
     }
 
     .nav-container .link-section ul {
@@ -269,6 +270,10 @@
         gap: 10px;
         margin: 0;
         padding: 10px;
+    }
+
+    .banner-title {
+        font-size: 30px;
     }
 
     .banner-photo img {
@@ -317,7 +322,12 @@
         padding: 10px;
     }
 
+    .product-info {
+        text-align: center;
+    }
+
     .product-title {
+        font-size: 25px;
         margin-top: 50px;
     }
 
